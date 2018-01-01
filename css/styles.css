@@ -1,0 +1,24 @@
+body {
+  background-color: #8e4109;
+  color: white;
+}
+
+h1 {
+  font-family: 'Tangerine';
+text-align:center;
+font-size: 81px;
+
+}
+
+#button {
+  padding-left:44%;
+}
+
+#dragon {
+  display:none;
+  margin:auto;
+  margin-top:20px;
+  width:500px;
+  border:1px solid white;
+  padding:20px;
+}
